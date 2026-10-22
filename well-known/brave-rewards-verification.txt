@@ -1,4 +1,0 @@
-This is a Brave Creators publisher verification file.
-
-Domain: carover0.github.io
-Token: ddc5deea3bcbd0a0c976a3e5ee60cf88da1707c8365d97e24debe2d99cef4838
